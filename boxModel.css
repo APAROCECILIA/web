@@ -1,0 +1,87 @@
+p{
+    background-color: rgb(242, 234, 243);
+    display: block;
+    padding: 10px;
+    border: 10pxs;
+    margin-left: 100px;
+    margin-right: 100px;
+    align-content: center;
+
+}
+
+
+#bio{
+    background-color:rgb(233, 188, 227);
+    display:inline-block;
+    padding: 30px;
+    padding-right: 3px;
+    border: 30px solid;
+    margin-left: 150px;
+    margin-bottom: 0px;
+    
+ 
+
+}
+#bio:hover{
+background-color: cornsilk;
+border-color: cornsilk;
+}
+#education{
+    background-color: rgb(189, 243, 201);
+    display: inline-block;
+    padding: 50px;
+    border: 40px solid;
+    margin-left: 370px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    
+}
+#education:hover{
+    background-color: chocolate;
+    border-color: chocolate;
+}
+
+#photo{
+    background-color: pink;
+    display: block;
+    padding: 30px;
+    padding-right:14px;
+    border: 30px solid;
+    float: right;
+    margin-right: 439px;
+    margin-bottom: 0px;
+       
+}
+#photo:hover{
+    background-color: cyan;
+    border-color:cyan ;
+}
+
+#hobbies{
+    background-color: aqua;
+    display:inline-flex;
+    padding: 30px;
+    border: 30px solid;
+    margin-left: 150px;
+    margin-top: 0px;
+}
+#hobbies:hover{
+    background-color: darkseagreen;
+    border-color:darkseagreen ;
+}
+#contact{
+    background-color:greenyellow;
+    display:inline-flex;
+    padding: 30px;
+    padding-right: 32px;
+    border: 30px solid;
+    float: right;
+    margin-right: 399px;
+    margin-top: 0px;  
+   
+ 
+}
+#contact:hover{
+    background-color: darkolivegreen;
+    border-color: darkolivegreen ;
+}
